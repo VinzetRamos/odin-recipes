@@ -1,0 +1,36 @@
+body {
+  background-color: #f5f5f5;
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1 {
+  color: #333;
+  text-align: center;
+}
+
+a {
+  color: #e44d26;
+}
+
+ul {
+  line-height: 2;
+}
+
+img {
+  width: 300px;
+  height: auto;
+}
+
+h2 {
+  color: #e44d26;
+}
+
+li {
+  line-height: 2;
+}
+
+p {
+  line-height: 1.6;
+}
